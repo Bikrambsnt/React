@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react";
 
-const api_url = "https://open.er-api.com/v6/latest/usd";
+const api_url = "https://open.er-api.com/v6/latest/${currency}";
 function customHooks(currency) {
   const [data, setData] = useState(
     {}
