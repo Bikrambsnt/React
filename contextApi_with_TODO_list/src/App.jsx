@@ -44,6 +44,15 @@ const toggleComplete = (id) =>{
 
 
 //From here Local storage concept is start
+//In local storage which is provided by the browser we can store our todos list in that so we will not loose it
+//it has basically two step  
+//1: getItem , getItem will take only value
+//2:setItem ,setItem will take an Id and a value
+
+
+
+
+
 
 
   return (
