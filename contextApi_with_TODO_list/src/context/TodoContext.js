@@ -3,7 +3,7 @@
 //Here we will create a todo app with a local storage to store the todos
 
 
-import React,{useContext ,createContext} from 'react'
+import {useContext ,createContext} from 'react'
 
 export const TodoContext = createContext({
 
