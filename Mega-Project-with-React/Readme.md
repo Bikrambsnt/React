@@ -18,6 +18,10 @@ A open source text editor which provide lots of fonts and designs
 
 Its a library from react to handle forms
 
+#### Html React parser
+
+This is because when we save the data on the appwrite on that time it will get saved in html form in tags so in our view we need  a simple text so to convert that...
+
 #### Thats what I am going to use on this project.........
 
 
