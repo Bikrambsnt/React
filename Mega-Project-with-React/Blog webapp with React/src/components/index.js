@@ -5,6 +5,8 @@ import Logout from "./Header/Logout";
 import Logo from "./logo";
 import Container from "./container/Container";
 import Button from "./Button";
+import Select from "./Select";
+import RTE from "./RTE";
 import Input from "./input";
 
 
@@ -15,6 +17,7 @@ export {
     Logout,
     Container,
     Button,
-    Input
-    
+    Input,
+    RTE,
+    Select
 }
